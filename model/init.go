@@ -3,7 +3,7 @@ package model
 import (
 	"log"
 	"os"
-	"singo/util"
+	"gglili/util"
 	"time"
 
 	"gorm.io/driver/mysql"

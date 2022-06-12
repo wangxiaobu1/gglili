@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"singo/model"
-	"singo/serializer"
+	"gglili/model"
+	"gglili/serializer"
 
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"

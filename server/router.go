@@ -2,8 +2,8 @@ package server
 
 import (
 	"os"
-	"singo/api"
-	"singo/middleware"
+	"gglili/api"
+	"gglili/middleware"
 
 	"github.com/gin-gonic/gin"
 )
